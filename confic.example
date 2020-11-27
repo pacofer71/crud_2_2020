@@ -1,0 +1,6 @@
+; pon tus datos de conexion
+; y renombra a config.ini
+[opciones]
+usuario=tu_usuario
+bbdd=tu_bbdd
+pass=tu_pass
